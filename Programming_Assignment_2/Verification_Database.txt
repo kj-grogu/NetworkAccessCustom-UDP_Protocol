@@ -1,0 +1,4 @@
+Subscriber_Number   Technology  Paid
+4085546805    04  1
+4086668821    03  0
+4086808821    02  1
