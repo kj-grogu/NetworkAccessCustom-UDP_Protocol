@@ -1,5 +1,5 @@
 # COEN_233_Assignments
-COEN_233 Assignments: Communication between one client and one server : 
+# COEN_233 Assignments: Communication between one client and one server : 
 **1. Client using customized protocol on top of UDP protocol for sending information to the server.**
     Designed and implemented a custom protocol on top of UDP for client-server communication, handling packet structuring, acknowledgment, and error detection mechanisms, including sequence validation and payload integrity checks.
     Developed a robust error-handling module in python that manages out-of-sequence packets, length mismatches, and missing packet terminators, enhancing data transmission reliability.
